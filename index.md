@@ -1,4 +1,4 @@
-![method-draw-image](C:\Users\administator\Desktop\method-draw-image.jpg)
+![method-draw-image](https://zkeq.gitee.io/china/method-draw-image.jpg)
 
 <center>LEARN ONLY 专版教程页</center>
 
